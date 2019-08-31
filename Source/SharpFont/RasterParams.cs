@@ -218,7 +218,7 @@ namespace SharpFont
 			}
 		}
 
-		internal override IntPtr Reference
+		public override IntPtr Reference
 		{
 			get
 			{

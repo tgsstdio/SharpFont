@@ -751,7 +751,7 @@ namespace SharpFont
 		/// </remarks>
 		public object Tag { get; set; }
 
-		internal override IntPtr Reference
+		public override IntPtr Reference
 		{
 			get
 			{

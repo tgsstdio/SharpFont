@@ -18,7 +18,7 @@ namespace SharpFont
 			this.reference = reference;
 		}
 
-		internal virtual IntPtr Reference
+		public virtual IntPtr Reference
 		{
 			get
 			{
